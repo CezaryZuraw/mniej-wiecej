@@ -1,0 +1,13 @@
+.main{
+    height: 470px;
+    padding: 20px;
+    background-image: url('logov2.jpg'); 
+    border-radius: 10px 10px 0px 0px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-size: 120%;
+    background-position: center;
+    box-shadow: inset 0px 0px 10px -5px rgb(160,160,160);
+    background-repeat: no-repeat;
+    opacity: .7;
+}
